@@ -1,5 +1,5 @@
 # CH-INVENTORYMANAGER
-# NOTE: Change the directory file(Line#128) path into your choosen folder at the file explorer (e.g., C:\Users\Admin\Your_Folder).
+# NOTE: Change the directory file path into your choosen folder at the file explorer (e.g., C:\Users\Admin\Your_Folder).
 using System;
 using System.Collections.Generic;
 using System.IO;
